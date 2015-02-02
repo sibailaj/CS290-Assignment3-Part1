@@ -1,1 +1,8 @@
-You log goes in this  file.
+Start: Sun, 1 Feb 2015 08:30:00 -0800
+End: Sun, 1 Feb 2015 14:00:00 -0800
+Tasks: Coded the "Variables" and "Functions" files for Part 1. Began the "Objects" file.
+
+
+Start: Sun, 1 Feb 2015 19:30:00 -0800
+End: Sun, 1 Feb 2015 22:30:00 -0800
+Tasks: Finished coding the "Objects" file and done with Part 1.
